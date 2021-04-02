@@ -358,6 +358,7 @@ h1{
 .project_box{
     justify-content: center;
     text-align: center;
+    color: rgb(238, 219, 255);
 }
 .VRpic{
     width: 30%;
